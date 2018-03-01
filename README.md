@@ -5,4 +5,4 @@ Repo for ECEN 689-605 Material Informatics course project
 Shutong Jiao
 
 ## License
-[MIT license](#)(https://github.com/dnc1994/MachineLearning-UW/blob/master/LICENSE)
+[MIT license](https://github.com/dnc1994/MachineLearning-UW/blob/master/LICENSE)
